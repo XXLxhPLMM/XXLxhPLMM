@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.window_l{
+    float: left;
+    width: 15%;
+
+}
+.window_l_h{
+    text-align:center;
+    background-color: aqua;
+}
+.window_r{
+    background-color: black;
+    width: 85%;
+    height: 100vh;
+    float: right;
+}
+.a_link{
+    height: 25px;
+    line-height: 15px;
+    font-size: 15px;
+    color: black;
+}

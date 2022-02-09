@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+<div class="window_l">
+    <h1 class="window_l_h">文档系统</h1>
+    <div id="content_m">
+        <div id="content_l"></div>
+        <div id="content_r"></div>
+    </div>
+    <div id="footer" >
+        <h2>上传文档</h2>
+        <form action="/upfile" method="post" name='upFile' enctype="multipart/form-data">
+            <input type="file" name="theFile">
+            <button onsubmit>上传</button>
+        </form>
+
+    </div>
+</div>
+<div class="window_r">
+    <div id="window_r_title">
+
+    </div>
+    <div id="window_r_iframe">
+<!--        <iframe src="" frameborder="0" name="iframe_show"></iframe>-->
+    </div>
+
+</div>
+
+</body>
+
+<script  src="js/jQuery.js"></script>
+<script src="js/file.js"></script>
+<script>
+    //发送ajax
+    $.ajax({
+        type: 'get',
+        url: 'file',
+        success: (res)=>{   //请求成功后回调
+            //res返回的结果，jquery已经把返回的json字符串转换为了json对象
+            urlShow(res.path)
+
+        }
+    })
+    document.getElementById("im").replaceChild()
+</script>
+
+</html>
