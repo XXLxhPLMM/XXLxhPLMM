@@ -76,6 +76,24 @@
 <tr>
 <td width="50%">
 
+#### 🌐 [Proxy](https://github.com/XXLxhPLMM/proxy)
+> My proxy service — mg10m.nbxxl.top
+
+`Node.js` `Network` `Proxy`
+
+</td>
+<td width="50%">
+
+#### ⚡ [Swain](https://github.com/XXLxhPLMM/swain)
+> API Framework
+
+`API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 🔥 [OpenCode](https://github.com/anomalyco/opencode)
 > The open source coding agent — AI-powered coding assistant
 
@@ -95,24 +113,6 @@
 
 - 🔌 Plugin-based architecture for DeepSeek
 - 🚀 Lightweight launcher: [dsh-start](https://github.com/XXLxhPLMM/dsh-start)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ⚡ [Swain](https://github.com/XXLxhPLMM/swain)
-> API Framework
-
-</td>
-<td width="50%">
-
-#### 🔧 [Zed](https://github.com/XXLxhPLMM/zed)
-> Code at the speed of thought
-
-`Rust` `Editor`
-
-- 🍴 Forked from zed-industries/zed
 
 </td>
 </tr>
