@@ -8,39 +8,27 @@
 
 <div align="center">
 
-### 👋 About Me
+## 👋 About Me
 
-```python
-class BlackHole:
-    def __init__(self):
-        self.role     = "Full-stack Developer"
-        self.focus    = ["AI/LLM", "Open Source", "Developer Tools"]
-        self.tools    = ["TypeScript", "Python", "Go", "Rust", "Node.js"]
-        self.interests = ["LLM Agents", "DevTool UX", "System Architecture"]
-        self.motto    = "It's easy to die with honor."
+```
+  🚀 Full-stack Developer
+  🤖 AI / LLM Enthusiast
+  🔧 Open Source Contributor
 
-    def current(self):
-        return "Building & contributing to tools that make developers faster 🚀"
+  📍 Building tools that make developers faster
+  💬 "It's easy to die with honor."
 ```
 
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
@@ -116,15 +104,15 @@ class BlackHole:
 #### ⚡ [Swain](https://github.com/XXLxhPLMM/swain)
 > API Framework
 
-`Batchfile` `API`
-
 </td>
 <td width="50%">
 
-#### 📷 [OpenCV Study](https://github.com/XXLxhPLMM/opencv_study)
-> Computer Vision Learning Notes
+#### 🔧 [Zed](https://github.com/XXLxhPLMM/zed)
+> Code at the speed of thought
 
-`Python` `OpenCV`
+`Rust` `Editor`
+
+- 🍴 Forked from zed-industries/zed
 
 </td>
 </tr>
